@@ -520,7 +520,7 @@ section {
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 88vh;
+  min-height: 82vh;
   background: url("../img/hero_img.jpg") top center;
   background-size: cover;
   position: relative;
@@ -542,7 +542,7 @@ section {
 .hero:before {
   position: absolute;
   content: "";
-  background: rgba(27, 47, 69, 0.6);
+  background: rgb(65 81 98 / 70%);
   inset: 0;
 }
 
@@ -1341,9 +1341,9 @@ section {
 }
 
 @media (max-width: 768px) {
-  name{
-    
-      font-size: 22px;
+  .hero h2.name{
+    margin-left: 24px;
+      font-size: 26px;
     
   }
   .header .logo {
@@ -1352,11 +1352,14 @@ section {
     margin-right: 13px;
   }
   .header  h1 {
-    margin-left: 89px;
-    font-size: 25px;
+    margin-left: 82px;
+    font-size: 24px;
 }
 .marg{
-  margin-left: 1px;
+  margin-left: -9px;
+}
+.section-header h2{
+  font-weight: 600;
 }
 
   }
