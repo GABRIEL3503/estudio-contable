@@ -520,7 +520,7 @@ section {
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 82vh;
+  min-height: 62vh;
   background: url("../img/hero_img.jpg") top center;
   background-size: cover;
   position: relative;
