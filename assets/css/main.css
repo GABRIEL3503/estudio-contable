@@ -33,6 +33,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.hero h2.name{
+  font-size: 35px;
+  font-weight: 500;
+}
 
 
 .marg{
@@ -753,6 +757,9 @@ section {
 /*--------------------------------------------------------------
 # Services List Section
 --------------------------------------------------------------*/
+.services-list {
+  margin-top: -90px;
+}
 .services-list .service-item {
   position: relative;
 }
@@ -766,7 +773,7 @@ section {
 
 .services-list .service-item .title {
   font-weight: 700;
-  margin-bottom: 5px;
+  margin-bottom: 21px;
   font-size: 18px;
 }
 
@@ -1359,6 +1366,8 @@ section {
   margin-left: -9px;
 }
 .section-header h2{
+  margin-left: 7px;
+  margin-top: 43px;
   font-weight: 600;
 }
 
