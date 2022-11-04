@@ -758,7 +758,7 @@ section {
 # Services List Section
 --------------------------------------------------------------*/
 .services-list {
-  margin-top: -90px;
+  margin-top: -3px;
 }
 .services-list .service-item {
   position: relative;
@@ -1369,6 +1369,9 @@ section {
   margin-left: 7px;
   margin-top: 43px;
   font-weight: 600;
+}
+.services-list {
+  margin-top: -93px;
 }
 
   }
