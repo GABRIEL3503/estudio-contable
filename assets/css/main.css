@@ -641,6 +641,7 @@ section {
 # Why Choose Us Section
 --------------------------------------------------------------*/
 .why-us {
+  margin-top: -69px;
   padding-bottom: 0;
 }
 
