@@ -1174,7 +1174,7 @@ section {
   font-size: 15px;
   margin-bottom: 0;
   font-family: var(--font-primary);
-  color: var(--color-secondary);
+  color: white;
 }
 
 .footer .footer-content .social-links a {
